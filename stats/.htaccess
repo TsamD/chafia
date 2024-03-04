@@ -1,0 +1,7 @@
+AuthName "chafia.interface3.be statistics"
+AuthType Basic
+AuthUserFile /home/chafia/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+Require all denied
+</Files>

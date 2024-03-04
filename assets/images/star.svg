@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 37.54 37.54">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="m25.17,37.54C20.66,25.52,12.27,21.4,0,25.17,11.66,21.24,15.92,12.92,12.37,0c4.46,12.11,12.85,16.24,25.17,12.37-12.02,4.51-16.14,12.9-12.37,25.17Z"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-1">
+      <image width="475" height="300" transform="translate(-25.53) scale(.13)" xlink:href="../images/dorý-grumaux-transformed.png"/>
+    </g>
+  </g>
+</svg>
